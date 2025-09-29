@@ -1,0 +1,11 @@
+item_sku,item_name,supplier_name,supplier_email,on_hand_qty,reorder_threshold,order_qty,last_checked
+F-001,جعبه مقوایی,ایران باکس,order@iranbox.ir,25,30,100,2025-06-03T09:00:00Z
+F-002,برچسب پستی,برچسب‌سازان,support@bartagsazan.ir,60,50,200,2025-06-03T09:10:00Z
+F-003,روبان قرمز,زیباپیچ,sales@zibapich.ir,18,20,150,2025-06-03T09:20:00Z
+F-004,پاکت حباب‌دار,پاکت‌چی,info@pakatchi.ir,40,35,120,2025-06-03T09:30:00Z
+F-005,چسب پهن,چسبان‌پک,sales@chasbanpack.ir,33,30,180,2025-06-03T09:40:00Z
+F-006,کارتن حمل,کارتنیران,contact@cartoniran.ir,22,25,160,2025-06-03T09:50:00Z
+F-007,نخ بسته‌بندی,نخ‌ریس,info@nakhris.ir,50,40,200,2025-06-03T10:00:00Z
+F-008,برچسب قیمت,قیمت‌زن,service@gheymatzan.ir,15,20,130,2025-06-03T10:10:00Z
+F-009,سلفون بسته‌بندی,پلاستیک‌پک,info@plastickpack.ir,28,30,140,2025-06-03T10:20:00Z
+F-010,لیبل رنگی,لیبل‌نقش,support@labelnaghsh.ir,36,40,170,2025-06-03T10:30:00Z

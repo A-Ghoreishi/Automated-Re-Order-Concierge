@@ -1,0 +1,7 @@
+python-dotenv       # load .env config
+langgraph           # orchestrator (state machine)
+openai              # for LLM (drafting purchase order)
+gspread             # interact with Google Sheets
+google-auth         # required for gspread
+imapclient          # check inbox for replies (YES/NO)
+requests            # lightweight HTTP calls if needed
